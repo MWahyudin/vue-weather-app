@@ -1,5 +1,5 @@
 # vue-weather
-
+![](demo/demo.gif)
 ## Project setup
 ```
 yarn install
